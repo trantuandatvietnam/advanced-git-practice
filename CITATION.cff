@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng dự án này, vui lòng trích dẫn nó như sau:"
+authors:
+  - name: "Na"
+    orcid: "0000-0001-2345-6789"
+title: "Tên dự án"
+version: "1.0.0"
+date-released: "2024-11-16"
+doi: "10.5281/zenodo.1234567"
